@@ -1,2 +1,2 @@
-# Excel
-some regression, stuff, and done.
+# Microsoft Excel
+Some regression, stuff, and done.
