@@ -1,2 +1,2 @@
-# Pivots-excel
-some regression, stuff and done
+# Excel
+some regression, stuff, and done.
